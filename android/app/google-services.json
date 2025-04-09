@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "848680602118",
+    "project_id": "loanledgers",
+    "storage_bucket": "loanledgers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848680602118:android:564032b86472607a571187",
+        "android_client_info": {
+          "package_name": "com.loanledgers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848680602118-iakln79o7j442fln1fa3e55q3r61l6em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loanledgers",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "848680602118-m10bbeap8hn0jh92dfsrk3ku4lvlqbh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAisE4YtC9_SxaE2WyLiCQPlIZGxMiPG1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848680602118-m10bbeap8hn0jh92dfsrk3ku4lvlqbh4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848680602118-viaqetplmve3t6gluq59iaam8mack305.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loanledgers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
